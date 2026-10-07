@@ -1,7 +1,7 @@
 Student Name: Imanishimwe Aime Emmanuel
 
 What I practiced in the shell:
-I practiced a lot of things like command and operators that help me manipulate files,manipulate directories, etc... All via the shell or the termainal.
+I practiced a lot of things like command and operators that help me manipulate the files,manipulate directories, etc... All via the shell or the termainal.
 
 How GitHub changed my submission habits:
 GitHub Changed my submission habits because I would always make sure that I submit the work to Github then afterward for checking, another thing is that it gave me space and flexiblity to control the version of my work not just working blindly but to know where i started and where am heading.
