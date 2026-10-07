@@ -1,0 +1,13 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+What grep helped me do:
+grep helped me search for specific text patterns or keywords inside files quickly. It allowed me to filter out unnecessary information and isolate only the lines that matched my search criteria like the ".txt" keyword.
+
+What find helped me do:
+helped me locate files and directories across my system based on specific attributes like name, size, or modification date like the shell_practice folder.
+
+What the pipe helped me do:
+The pipe (|) helped me redirect the output of one command to serve as the immediate input for the next command, like listing the files in shell_practice folder and then select those with the ".txt" format.
+
+Difference between > and >>:
+The > operator redirects output to a file by completely overwriting any existing content, or creating a new file if it doesn’t exist. In contrast, the >> operator appends the output to the end of the file, preserving all original data, like where the > operator was used to write the file names in the txt_matches.txt file and how the >> operator was used to append the four new lines to the extisting line in the journal.txt file
