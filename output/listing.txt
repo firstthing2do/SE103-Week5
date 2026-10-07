@@ -1,0 +1,5 @@
+total 5
+drwxr-xr-x 1 Imanishimwe Aime 197121   0 Oct  7 02:33 ./
+drwxr-xr-x 1 Imanishimwe Aime 197121   0 Oct  7 02:28 ../
+-rw-r--r-- 1 Imanishimwe Aime 197121   0 Oct  7 02:29 .gitkeep
+-rw-r--r-- 1 Imanishimwe Aime 197121 276 Oct  7 02:48 journal.txt

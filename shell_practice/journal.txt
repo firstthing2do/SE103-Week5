@@ -1,0 +1,5 @@
+Project owner: [Imanishimwe Aime Emmanuel]
+I've just started the shell practices in the assignment for week 5
+I first initiated a github repo for the assignment
+Then i initiated a local repo on my PC to work with locally
+Here i am then working on the part 1 of the assignment
