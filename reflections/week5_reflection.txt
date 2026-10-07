@@ -1,0 +1,13 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+What I practiced in the shell:
+I practiced a lot of things like command and operators that help me manipulate the files,manipulate directories, etc... All via the shell or the termainal.
+
+How GitHub changed my submission habits:
+GitHub Changed my submission habits because I would always make sure that I submit the work to Github then afterward for checking, another thing is that it gave me space and flexiblity to control the version of my work not just working blindly but to know where i started and where am heading.
+
+One mistake I made and how I fixed it:
+One mistake that I did, I forgot to write some sentences that contained the words: "success" and "error".So I had to go back and re-write them in the sentences in Task 1.
+
+Why the repository name had to be exactly SE103-Week5:
+To match this week's assignments and the related things that have to be in it, and it is what make it different from other repo name from previous or a head weeks.
