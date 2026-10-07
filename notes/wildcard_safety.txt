@@ -1,0 +1,10 @@
+Student Name: Imanishimwe Aime Emmanuel
+
+What * meant in my pattern:
+The asterisk (*) is a wildcard character that matches zero or more characters of any kind, allowing data*.txt to target every file in the directory that starts with data and ends with .txt.
+
+Why I listed matches before copying:
+Listing the matches first lets you inspect the exact files matched by the pattern to verify that your wildcard isn't capturing unintended files before running an action like cp. It acts as a safeguard against accidentally copying or overwriting wrong files.
+
+Why wildcards are dangerous with delete commands:
+They are dangerous because deletion commands in the terminal are typically permanent and do not move files to a trash bin, a rogue wildcard can wipe out critical files instantly with no prompt for confirmation.
